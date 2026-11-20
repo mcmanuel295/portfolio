@@ -1,4 +1,4 @@
-# Confidence Mmesoma — Portfolio
+# Emmanuel Ogbu— Portfolio
 
 A responsive single-page portfolio website inspired by the reference screenshots. Built with plain HTML, CSS, and JavaScript—no build step or dependencies required.
 
